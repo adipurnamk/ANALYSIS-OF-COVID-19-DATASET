@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.zip
+us_county.dbf
+us_county.prj
+us_county.shp
+us_county.shx
