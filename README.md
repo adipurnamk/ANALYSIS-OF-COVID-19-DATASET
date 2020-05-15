@@ -126,8 +126,8 @@ zero_cases = df_case['4/26/20'] == 0
 df_case[zero_cases]
 ```
 
-![10](https://github.com/adipurnamk/ANALYSIS-OF-COVID-19-DATASET/blob/master/11.png "Zero case")
-![11](https://github.com/adipurnamk/ANALYSIS-OF-COVID-19-DATASET/blob/master/9.png "Zero case")
+![10](https://github.com/adipurnamk/ANALYSIS-OF-COVID-19-DATASET/blob/master/10.png "Zero case")
+![11](https://github.com/adipurnamk/ANALYSIS-OF-COVID-19-DATASET/blob/master/11.png "Zero case")
 
 Although overall case growth is still increasing to this day, there are still some states that are free of the corona.  These states are American Samoa, Marshall Islands, Micronesia, and Palau.
 
