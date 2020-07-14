@@ -22,7 +22,7 @@ From this exploratory, we hope that we can answer some questions, such as:
 
 ## 4. Conclusion and Recommendation
 
-There is som conclusion from this project:
+There is some conclusion from this project:
 
 1. The first case happened in Washington state.
 
